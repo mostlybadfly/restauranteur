@@ -1,0 +1,9 @@
+ul {
+list-style: none;
+display: inline;
+float: left;
+}
+
+body {
+background-color:cadetblue;
+}
